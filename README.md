@@ -1,5 +1,43 @@
 # filament
 
+# 🖨️ Popular Sites for 3D Printing Models
+
+Looking for high-quality 3D printable models? Here's a quick guide to the most popular sites where makers, hobbyists, and professionals share and download files for 3D printing.
+
+## 🔝 Top Sites
+
+### **MakerWorld** (by Bambu Lab)  
+- **Website:** [makerworld.com](https://www.makerworld.com)  
+- **Description:** A newer but rapidly growing platform focused on print-ready models with verified slicer profiles, optimized especially for Bambu Lab printers but usable by all.  
+- **Cost:** Free  
+- **Login Required:** For full downloads and interaction.
+
+### **Printables** (by Prusa)  
+- **Website:** [printables.com](https://www.printables.com)  
+- **Description:** Clean, fast-growing platform from Prusa with high-quality models, competitions, and community badges.  
+- **Cost:** Free  
+- **Login Required:** For downloads and interaction.
+
+### **Thangs**  
+- **Website:** [thangs.com](https://www.thangs.com)  
+- **Description:** Advanced search and geometric model comparison. Community-driven with collaboration features.  
+- **Cost:** Free  
+- **Login Required:** For downloads and saves.
+
+### **Thingiverse**  
+- **Website:** [thingiverse.com](https://www.thingiverse.com)  
+- **Description:** The largest free 3D model repository, especially strong in hobbyist and DIY prints. Great for toys, tools, cosplay, and gadgets.  
+- **Cost:** Free  
+- **Login Required:** Only for uploading or saving collections.
+
+---
+
+## 📦 Tips for Safe Printing
+- Always preview STL files in your slicer before printing.
+- Read comments and check print settings.
+- Use trusted sources or scan files if unsure.
+
+
 | Material   | Nozzle Temp (°C) | Bed Temp (°C) | UV Resistance | Water Resistance | Tensile Strength (MPa)       | Warping | Dry Temp (°C)  | Dry Time (hrs) | Best Uses |
 |:-----------|:-----------------|:--------------|:--------------|:-----------------|:----------------------------|:--------|:---------------|:---------------|:----------|
 | **PETG**   | 220–250          | 70–90         | 🌞 Good       | ☔ High          | ~50–55 MPa                  | Medium  | 65      | 4–6            | Outdoor gear, waterproof containers |
