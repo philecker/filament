@@ -2,9 +2,7 @@
 
 # 🖨️ Popular Sites for 3D Printing Models
 
-Looking for high-quality 3D printable models? Here's a quick guide to the most popular sites where makers, hobbyists, and professionals share and download files for 3D printing.
-
-## 🔝 Top Sites
+Looking for high-quality 3D printable models? Here's a quick list of sites I use for downloading & sharing files for 3D printing.
 
 ### **MakerWorld** (by Bambu Lab)  
 - **Website:** [makerworld.com](https://www.makerworld.com)  
@@ -29,13 +27,6 @@ Looking for high-quality 3D printable models? Here's a quick guide to the most p
 - **Description:** The largest free 3D model repository, especially strong in hobbyist and DIY prints. Great for toys, tools, cosplay, and gadgets.  
 - **Cost:** Free  
 - **Login Required:** Only for uploading or saving collections.
-
----
-
-## 📦 Tips for Safe Printing
-- Always preview STL files in your slicer before printing.
-- Read comments and check print settings.
-- Use trusted sources or scan files if unsure.
 
 
 | Material   | Nozzle Temp (°C) | Bed Temp (°C) | UV Resistance | Water Resistance | Tensile Strength (MPa)       | Warping | Dry Temp (°C)  | Dry Time (hrs) | Best Uses |
